@@ -13,7 +13,7 @@ Nesta primeira análise, utilizamos as colunas **Sex** e **Age** como caracterí
 - Fizemos o tratamento de dados nulos na coluna **Age**, substituindo os valores nulos pela média da coluna.
 - Utilizamos 3 modelos de Machine Leaning que são **RandomForent**, **KNeighborsClassifer** e **LogisticRegression**
 ### Resultados da acurácia dos modelos em dados de Treino e Validação.
-- **RandomForent**: 0.6502242152466368
+- **RandomForest**: 0.6502242152466368
 - **KNeighborsClassifer**: 0.6860986547085202
 - **LogisticRegression**: 0.6591928251121076
 
